@@ -2,7 +2,6 @@
 
 ![tests](https://github.com/sunandithabs/bolt/actions/workflows/tests.yml/badge.svg)
 
-![demo](docs/demo.svg)
 
 Secure OTA update and boot integrity framework for automotive ECUs, simulated
 entirely in software: signed firmware images, rollback protection, and an
