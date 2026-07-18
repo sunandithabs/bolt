@@ -87,3 +87,15 @@ terminal table with per-attack results and a summary line.
 
 ## License
 MIT — see [LICENSE](LICENSE).
+
+## Attack Suite Results
+
+![BOLT Attack Suite Results](docs/bolt_Results.png)
+
+
+## Attack Suite Results
+
+<p align="center">
+  <img src="docs/bolt_Results.png" alt="BOLT Attack Suite Results" width="900">
+</p>
+
